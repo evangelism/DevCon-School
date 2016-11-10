@@ -1,12 +1,12 @@
 # DevCon School: Технологии будущего
 
-## Материалы ноябрьской Большой школы DevCon
+## Материалы [ноябрьской Большой школы DevCon](https://events.techdays.ru/Future-Technologies/2016-11/)
 ### Открытие
 [На пороге цифровой трансформации](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Openning/%D0%9D%D0%B0%20%D0%BF%D0%BE%D1%80%D0%BE%D0%B3%D0%B5%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8.pdf) (Константин Кичинский, Microsoft)
 
 ### Интенсивы
-* [Облачный интернет вещей](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Intensives/%D0%9E%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B2%D0%B5%D1%89%D0%B5%D0%B9.pdf) (Дмитрий Сошников, Microsoft; Александр Сурков, Инпросистем; Евгений Григоренко, РТС-Тендер). Материалы интенсива: [https://github.com/evangelism/IoTSchool](https://github.com/evangelism/IoTSchool) 
-* Правильный Xamarin для мобильных приложений
+* [Облачный интернет вещей](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Intensives/%D0%9E%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%B2%D0%B5%D1%89%D0%B5%D0%B9.pdf) (Дмитрий Сошников, Microsoft; Александр Сурков, Инпросистем; Евгений Григоренко, РТС-Тендер). [Материалы интенсива](https://github.com/evangelism/IoTSchool).
+* [Правильный Xamarin для мобильных приложений](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Intensives/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20Xamarin%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf) (Вячеслав Черников, Binwell; Мария Горелкина, Microsoft). [Материалы интенсива](https://github.com/evangelism/DevCon-School/tree/master/Big%20November%20School/Intensives/Xamarin%20Intensive).
 * Интенсив по машинному обучению 
 
 ### Мастер-классы
