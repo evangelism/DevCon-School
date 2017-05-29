@@ -1,19 +1,5 @@
 # DevCon School: Технологии будущего
 
-## Материалы [Большой июньской школы DevCon 2017](https://events.techdays.ru/Future-Technologies/2017-06/)
-
-**Большая июньская школа DevCon 2017** проходит 1 июня 2017 г. в Digital October. На мероприятие зарегистрировано более 500 человек. 
-
-Ниже вы найдете все материалы интенсивов и мастер-классов. Наслаждайтесь!
-
-### Интенсивы
-* [Практическое введение в нейронные сети и глубокое обучение](NeuroWorkshop) (Дмитрий Сошников, Microsoft; Михаил Бурцев, МФТИ; Андрей Устюжанин, Яндекс/НИУ ВШЭ; Михаил Козлов, МГТУ им. Баумана). [Материалы интенсива на github](https://github.com/shwars/NeuroWorkshop),[лекции и примеры в Azure Notebooks](https://notebooks.azure.com/sosh/libraries/neuroworkshop).
-
-### Мастер-классы
-* Скоро здесь появится информация!
-
---------
-
 ## Материалы [ноябрьской Большой школы DevCon](https://events.techdays.ru/Future-Technologies/2016-11/)
 ### Открытие
 [На пороге цифровой трансформации](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Openning/%D0%9D%D0%B0%20%D0%BF%D0%BE%D1%80%D0%BE%D0%B3%D0%B5%20%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8.pdf) (Константин Кичинский, Microsoft)
@@ -37,3 +23,6 @@
 * [Разрабатываем ASP.NET MVC приложение с БЭМ-фронтендом](https://github.com/evangelism/DevCon-School/blob/master/Big%20November%20School/Master%20Classes/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%20ASP.NET%20MVC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%20%D0%91%D0%AD%D0%9C-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%BE%D0%BC.pdf) (Дмитрий Андриянов и Антон Виноградов, Яндекс)
 * Azure Service Fabric - платформа нового поколения для размещения и управления распределённых систем (Евгений Агафонов, ABBYY)
 * Пишем приложение “Hello, World!” для Microsoft HoloLens (Станислав Булавин и Глеб Захаров, Zengalt)     
+
+
+
