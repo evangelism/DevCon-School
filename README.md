@@ -15,9 +15,9 @@
 ### Мастер-классы
 
  * [Машинное обучение в облаке Microsoft Azure](Big%20June%20School/MasterClasses/Machine%20Learning%20with%20Azure.pdf)
- * [Линейная и логистическая регрессия от Excel через Python к Azure ML](Big%20June%20School/MasterClasses/Regression.pdf
- * [Программируем в мире Minecraft с фреймворком Malmo от MS Research](Big%20June%20School/MasterClasses/Minecraft DevCon School.pdf
- * [Визуализация данных с помощью Power BI](Big%20June%20School/MasterClasses/PowerBI DevCon School.pdf
+ * [Линейная и логистическая регрессия от Excel через Python к Azure ML](Big%20June%20School/MasterClasses/Regression.pdf)
+ * [Программируем в мире Minecraft с фреймворком Malmo от MS Research](Big%20June%20School/MasterClasses/Minecraft%20DevCon%20School.pdf)
+ * [Визуализация данных с помощью Power BI](Big%20June%20School/MasterClasses/PowerBI%20DevCon%20School.pdf)
  * [Azure Service Fabric — платформа для распределенных проектов на практике](Big%20June%20School/MasterClasses/Service Fabric.pdf)
  * [Контейнеры на практике](Big%20June%20School/MasterClasses/Practical%20Contrainers.pdf)
  * [Рефакторинг унаследованного кода: как разорвать зависимости?](Big%20June%20School/MasterClasses/LegacyCode.pdf)

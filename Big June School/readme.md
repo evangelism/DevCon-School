@@ -15,9 +15,9 @@
 ### Мастер-классы
 
  * [Машинное обучение в облаке Microsoft Azure](MasterClasses/Machine%20Learning%20with%20Azure.pdf)
- * [Линейная и логистическая регрессия от Excel через Python к Azure ML](MasterClasses/Regression.pdf
- * [Программируем в мире Minecraft с фреймворком Malmo от MS Research](MasterClasses/Minecraft DevCon School.pdf
- * [Визуализация данных с помощью Power BI](MasterClasses/PowerBI DevCon School.pdf
+ * [Линейная и логистическая регрессия от Excel через Python к Azure ML](MasterClasses/Regression.pdf)
+ * [Программируем в мире Minecraft с фреймворком Malmo от MS Research](MasterClasses/Minecraft%20DevCon%20School.pdf)
+ * [Визуализация данных с помощью Power BI](MasterClasses/PowerBI%20DevCon%20School.pdf)
  * [Azure Service Fabric — платформа для распределенных проектов на практике](MasterClasses/Service Fabric.pdf)
  * [Контейнеры на практике](MasterClasses/Practical%20Contrainers.pdf)
  * [Рефакторинг унаследованного кода: как разорвать зависимости?](MasterClasses/LegacyCode.pdf)
