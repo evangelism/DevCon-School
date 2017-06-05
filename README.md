@@ -7,10 +7,28 @@
 Ниже вы найдете все материалы интенсивов и мастер-классов. Наслаждайтесь!
 
 ### Интенсивы
-* [Практическое введение в нейронные сети и глубокое обучение](NeuroWorkshop) (Дмитрий Сошников, Microsoft; Михаил Бурцев, МФТИ; Андрей Устюжанин, Яндекс/НИУ ВШЭ; Михаил Козлов, МГТУ им. Баумана). [Материалы интенсива на github](https://github.com/shwars/NeuroWorkshop),[лекции и примеры в Azure Notebooks](https://notebooks.azure.com/sosh/libraries/neuroworkshop).
+
+  * [Практическое введение в нейронные сети и глубокое обучение](Big%20June%20School/Intensives/NeuroWorkshop) (Дмитрий Сошников, Microsoft; Михаил Бурцев, МФТИ; Андрей Устюжанин, Яндекс/НИУ ВШЭ; Михаил Козлов, МГТУ им. Баумана). [Материалы интенсива на github](https://github.com/shwars/NeuroWorkshop),[лекции и примеры в Azure Notebooks](https://notebooks.azure.com/sosh/libraries/neuroworkshop).
+  * [Гибридные приложения и практики DevOps на базе Azure Stack](Big%20June%20School/Intensives/AzureStack/AzureStack_Shapoval.pdf) (Александр Шаповал)
+  * Blockchain: от первого "умного контракта" до ICO
 
 ### Мастер-классы
-* Скоро здесь появится информация!
+
+ * [Машинное обучение в облаке Microsoft Azure](Big%20June%20School/MasterClasses/Machine%20Learning%20with%20Azure.pdf)
+ * [Линейная и логистическая регрессия от Excel через Python к Azure ML](Big%20June%20School/MasterClasses/Regression.pdf
+ * [Программируем в мире Minecraft с фреймворком Malmo от MS Research](Big%20June%20School/MasterClasses/Minecraft DevCon School.pdf
+ * [Визуализация данных с помощью Power BI](Big%20June%20School/MasterClasses/PowerBI DevCon School.pdf
+ * [Azure Service Fabric — платформа для распределенных проектов на практике](Big%20June%20School/MasterClasses/Service Fabric.pdf)
+ * [Контейнеры на практике](Big%20June%20School/MasterClasses/Practical%20Contrainers.pdf)
+ * [Рефакторинг унаследованного кода: как разорвать зависимости?](Big%20June%20School/MasterClasses/LegacyCode.pdf)
+ * [Postgres в облаке Azure](Big%20June%20School/MasterClasses/Postgres%20Pro%20in%20Microsoft Azure.pdf)
+ * [Построение процесса безопасной разработки](Big%20June%20School/MasterClasses/ProcessSafeDevelopment.pdf)
+ * Контейнеризация и DevOps приложений на примере Docker и Visual Studio Team Services -- [материалы](Big%20June%20School/MasterClasses/Zverev-JavaDemoDocker-master.zip)
+ * [Сбор системной телеметрии в реальном времени](Big%20June%20School/MasterClasses/TelemetryCollection.pdf)
+ * Возможности Microsoft Visual Studio Team Services и Azure для Java-разработчиков
+
+### Сообщества
+ * [Чат школы в telegram](https://t.me/microsoftschool)
 
 --------
 
