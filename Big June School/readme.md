@@ -6,6 +6,9 @@
 
 Ниже вы найдете все материалы интенсивов и мастер-классов. Наслаждайтесь!
 
+### Пленарный доклад
+  * [Открытие конференции](DevCon%20School%20Opening.pdf)
+
 ### Интенсивы
 
   * [Практическое введение в нейронные сети и глубокое обучение](Intensives/NeuroWorkshop) (Дмитрий Сошников, Microsoft; Михаил Бурцев, МФТИ; Андрей Устюжанин, Яндекс/НИУ ВШЭ; Михаил Козлов, МГТУ им. Баумана). [Материалы интенсива на github](https://github.com/shwars/NeuroWorkshop),[лекции и примеры в Azure Notebooks](https://notebooks.azure.com/sosh/libraries/neuroworkshop).
