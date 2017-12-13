@@ -3,7 +3,7 @@
 ## Материалы [Microsoft Developer School для разработчиков в Украине](https://events.techdays.ru/Microsoft-Developer-School/2017-11/)
 
  * [Открытие](DevCon17.UA/Opening.pdf)
- * [Blockchain: технологии, индустрии, разворачивание в облаке Azure](DevCon17.UA/Blockchain.pdf)
+ * [Blockchain: технологии, индустрии, разворачивание в облаке Azure](DevCon17.UA/BlockChain.pdf)
  * [How to make your data smart with AI and ML](DevCon17.UA/HowToMakeDataSmart.pdf)
  * [IoT: An Overview](DevCon17.UA/IoT.pdf)
  * [Building Serverless Apps](DevCon17.UA/Serverless.pdf)
