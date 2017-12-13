@@ -1,5 +1,16 @@
 # DevCon School: Технологии будущего
 
+## Материалы [Microsoft Developer School для разработчиков в Украине](https://events.techdays.ru/Microsoft-Developer-School/2017-11/)
+
+ * [Открытие](DevCon17.UA/Opening.pdf)
+ * [Blockchain: технологии, индустрии, разворачивание в облаке Azure](DevCon17.UA/Blockchain.pdf)
+ * [How to make your data smart with AI and ML](DevCon17.UA/HowToMakeDataSmart.pdf)
+ * [IoT: An Overview](DevCon17.UA/IoT.pdf)
+ * [Building Serverless Apps](DevCon17.UA/Serverless.pdf)
+ * [Augmented Reality](DevCon17.UA/AR.pdf)
+
+--------
+
 ## Материалы [Большой июньской школы DevCon 2017](https://events.techdays.ru/Future-Technologies/2017-06/)
 
 **Большая июньская школа DevCon 2017** проходит 1 июня 2017 г. в Digital October. На мероприятие зарегистрировано более 500 человек. 
